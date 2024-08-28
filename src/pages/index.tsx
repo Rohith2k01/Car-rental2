@@ -12,8 +12,8 @@ import styles from "@/styles/Home.module.css"
 
 
 export default function Home() {
-  return (
-    <div>
+  return(
+  <div>
       <Head>
         <title>Car renral</title>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
