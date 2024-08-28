@@ -74,7 +74,7 @@ const Booking = () => {
               <input
                 type="datetime"
                 id="pickup-date"
-                value="2023/10/30   09:00  am"
+                value="2023/10/30   09:00  am" 
               />
             </div>
             <div className="in">
@@ -192,5 +192,4 @@ const Booking = () => {
     </main>
   );
 };
-
 export default Booking;
