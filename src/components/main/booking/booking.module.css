@@ -147,7 +147,6 @@
 		gap: 8px;
 		border-radius: 8px;
 		border: 2px solid red;
-		opacity: 0px;
 		font-family: Poppins;
 		font-size: 13px;
 		font-weight: 600;
@@ -174,7 +173,6 @@
 	.store_buttons {
 		display: flex;
 		justify-content: center;
-
 		gap: 0;
 	}
 

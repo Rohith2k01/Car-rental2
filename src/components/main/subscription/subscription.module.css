@@ -41,7 +41,6 @@
 #email {
 	gap: 0px;
 	border-radius: 5px;
-	opacity: 0px;
 	width: 300px;
 	height: 35px;
 	padding: 5px;
@@ -78,7 +77,6 @@
 .sub2 {
 	background: #E21E26;
 	gap: 0px;
-	opacity: 0px;
 	display: flex;
 }
 
@@ -108,7 +106,6 @@
 .bt {
 	gap: 10px;
 	border-radius: 8px;
-	opacity: 0px;
 	background-color: #000;
 	color: #fff;
 	font-family: Poppins;
@@ -123,7 +120,6 @@
 #number {
 	gap: 0px;
 	border-radius: 5px 0px 0px 0px;
-	opacity: 0px;
 	width: 263px;
 	height: 43px;
 	padding: 5px;
