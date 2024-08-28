@@ -253,7 +253,6 @@ h3 {
 	padding: 0px 20px 0px 20px;
 	gap: 8px;
 	border-radius: 15px;
-	opacity: 0px;
 	color: #fff;
 	font-family: Poppins;
 	font-size: 14px;
@@ -269,7 +268,6 @@ h3 {
 #email {
 	gap: 0px;
 	border-radius: 5px;
-	opacity: 0px;
 	width: 300px;
 	height: 35px;
 	padding: 5px;
@@ -290,7 +288,6 @@ h3 {
 	background: #E21E26;
 	gap: 0px;
 	border-radius: 5px;
-	opacity: 0px;
 	font-family: Poppins;
 	font-size: 16px;
 	font-weight: 500;
@@ -306,7 +303,6 @@ h3 {
 .sub2 {
 	background: #E21E26;
 	gap: 0px;
-	opacity: 0px;
 	display: flex;
 }
 
@@ -336,7 +332,6 @@ h3 {
 .bt {
 	gap: 10px;
 	border-radius: 8px;
-	opacity: 0px;
 	background-color: #000;
 	color: #fff;
 	font-family: Poppins;
@@ -351,7 +346,6 @@ h3 {
 #number {
 	gap: 0px;
 	border-radius: 5px 0px 0px 0px;
-	opacity: 0px;
 	width: 263px;
 	height: 43px;
 	padding: 5px;
@@ -403,7 +397,6 @@ h4 {
 
 .loc {
 	gap: 0px;
-	opacity: 0px;
 	background: #000000;
 	max-height: 325px;
 	padding: 20px;
@@ -690,7 +683,6 @@ footer {
 		gap: 8px;
 		border-radius: 8px;
 		border: 2px solid red;
-		opacity: 0px;
 		font-family: Poppins;
 		font-size: 13px;
 		font-weight: 600;
